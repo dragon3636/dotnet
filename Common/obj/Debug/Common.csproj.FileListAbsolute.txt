@@ -1,0 +1,10 @@
+G:\visual studio 2015\Projects\OnlineShow\Common\bin\Debug\Common.dll
+G:\visual studio 2015\Projects\OnlineShow\Common\bin\Debug\Common.pdb
+G:\visual studio 2015\Projects\OnlineShow\Common\obj\Debug\Common.dll
+G:\visual studio 2015\Projects\OnlineShow\Common\obj\Debug\Common.pdb
+G:\visual studio 2015\Projects\OnlineShow\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Temmo Story\Common\bin\Debug\Common.dll
+C:\Users\lenovo\Desktop\Temmo Story\Common\bin\Debug\Common.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Common\obj\Debug\Common.dll
+C:\Users\lenovo\Desktop\Temmo Story\Common\obj\Debug\Common.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\Model.dll.config
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\Model.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\Model.pdb
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\EntityFramework.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\PagedList.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\PagedList.Mvc.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\StaticResource.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\StaticResource.pdb
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\EntityFramework.xml
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\PagedList.xml
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\PagedList.Mvc.xml
+G:\visual studio 2015\Projects\OnlineShow\Model\bin\Debug\en\StaticResource.resources.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\visual studio 2015\Projects\OnlineShow\Model\obj\Debug\Model.dll
+G:\visual studio 2015\Projects\OnlineShow\Model\obj\Debug\Model.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\Model.dll.config
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\Model.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\Model.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\Common.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\PagedList.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\StaticResource.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\Common.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\StaticResource.pdb
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\PagedList.xml
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\lenovo\Desktop\Temmo Story\Model\bin\Debug\en\StaticResource.resources.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Temmo Story\Model\obj\Debug\Model.dll
+C:\Users\lenovo\Desktop\Temmo Story\Model\obj\Debug\Model.pdb

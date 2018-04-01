@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = " Tất cả các sản phẩm ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var allcategory = (List<Model.EF.Product>)ViewBag.AllProducts;
+}
+<div class="content_bottom">
+    <div class="heading">
+        <h3>Sản phẩm liên quan</h3>
+    </div>
+    <div class="see">
+        <p><a href="/san-pham">Xem tất cả</a></p>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="section group">
+    @foreach (var item in allcategory)
+    {
+        var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+        <div class="grid_1_of_4 images_1_of_4">
+            <a href="@url"><img src="@item.Image" alt=""></a>
+            <div class="price" style="border:none">
+                <div class="add-cart" style="float:none">
+                    <h4><a href="/them-gio-hang?productId=@item.ID&quantity=1">Thêm vào giỏi</a></h4>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    }
+
+</div>
+
+
+
+
+
+ 
+

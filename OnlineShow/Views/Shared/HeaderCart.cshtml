@@ -1,0 +1,19 @@
+﻿@model List<OnlineShow.Models.CarItem>
+    @{ 
+        var payment = 0;
+        foreach (var item in Model)
+        { var product = item.Product;
+            payment += (int)product.Price.GetValueOrDefault(0) * item.Quantity;
+        }
+
+    }
+<div class="cart">
+    <p>
+       Chào mừng đến với website <span>Giỏi hàng :</span><div id="dd" class="wrapper-dropdown-2">
+           @Model.Count()  sản phẩm  - @payment.ToString("N0") Đ;
+            <ul class="dropdown">
+                <li>you have no items in your Shopping cart</li>
+            </ul>
+        </div>
+    </p>
+</div>

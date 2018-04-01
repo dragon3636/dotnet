@@ -1,0 +1,196 @@
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\ApplicationInsights.config
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\csc.exe
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\System.Collections.Immutable.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\System.Reflection.Metadata.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\vbc.exe
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\VBCSCompiler.exe
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\roslyn\VBCSCompiler.exe.config
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\OnlineShow.dll.config
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\OnlineShow.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\OnlineShow.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Antlr3.Runtime.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\BotDetect.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\BotDetect.Web.Mvc.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\CKFinder.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Common.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\EntityFramework.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\EntityFramework.SqlServer.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Facebook.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.Agent.Intercept.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.DependencyCollector.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.Web.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.WindowsServer.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.ApplicationInsights.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.Core.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Cookies.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Facebook.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Google.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.OAuth.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Twitter.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Web.Infrastructure.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Model.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Newtonsoft.Json.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Owin.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\PagedList.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\PagedList.Mvc.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\StaticResource.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Helpers.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Mvc.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Optimization.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Razor.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.Deployment.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.Razor.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\WebGrease.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Common.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Model.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\StaticResource.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\CKFinder.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Facebook.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.DependencyCollector.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.Web.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AI.WindowsServer.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.ApplicationInsights.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\PagedList.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\PagedList.Mvc.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Helpers.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Mvc.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Optimization.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.Razor.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.Deployment.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\System.Web.WebPages.Razor.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Antlr3.Runtime.pdb
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Newtonsoft.Json.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\EntityFramework.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\EntityFramework.SqlServer.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.Core.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Facebook.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Cookies.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.OAuth.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Google.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.Twitter.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\bin\en\StaticResource.resources.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\obj\Debug\OnlineShow.csprojResolveAssemblyReference.cache
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\obj\Debug\OnlineShow.dll
+G:\visual studio 2015\Projects\OnlineShow\OnlineShow\obj\Debug\OnlineShow.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\ApplicationInsights.config
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\OnlineShow.dll.config
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\OnlineShow.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\OnlineShow.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\BotDetect.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\BotDetect.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Common.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Facebook.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.Web.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Model.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Owin.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\PagedList.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\PagedList.Mvc.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\StaticResource.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Common.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Model.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\StaticResource.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Facebook.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\PagedList.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\PagedList.Mvc.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\bin\en\StaticResource.resources.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\obj\Debug\OnlineShow.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\obj\Debug\OnlineShow.dll
+C:\Users\lenovo\Desktop\Temmo Story\OnlineShow\obj\Debug\OnlineShow.pdb

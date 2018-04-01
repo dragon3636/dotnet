@@ -1,0 +1,10 @@
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\bin\Debug\StaticResource.dll
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\bin\Debug\StaticResource.pdb
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\bin\Debug\en\StaticResource.resources.dll
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.Resources.resources
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.Resources.en.resources
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.csproj.GenerateResource.Cache
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\en\StaticResource.resources.dll
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.dll
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.pdb
+G:\visual studio 2015\Projects\OnlineShow\StaticResource\obj\Debug\StaticResource.csprojResolveAssemblyReference.cache
